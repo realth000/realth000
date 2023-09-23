@@ -2,7 +2,19 @@
 
 Welcome! ٩(>﹏<)۶
 
-Curiosity => Learning + Coding => => 素晴らしき日々
+Curiosity => Learning + Coding => 素晴らしき日々
+
+> 我们应当快活地走过一个又一个地方，没有什么能像故乡那样让我们留恋。
+>
+> 世界精神不是要束缚我们，而是鼓舞我们走得更高，看得更远。
+>
+> 一旦适应某种生活，我们的意志便很快松懈。
+>
+> 只有时刻准备出院门的人，才能摆脱麻痹人心的惰性。
+>
+> 甚至在死亡将要到来之时，或许我们还会带着朝气，被送进新的领域。
+>
+> 生命向我们发出的呐喊无穷无尽。
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats-realth000.vercel.app/api?username=realth000&theme=radical&include_all_commits=true&show_icons=true"/>
