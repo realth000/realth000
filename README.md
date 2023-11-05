@@ -22,7 +22,7 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 
 <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt"></a>
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter"></a>
-<a href="https://developer.android.com/jetpack/compose"><img height=48 src="https://developer.android.com/static/images/jetpack/compose/tutorial.png"></a>
+<a href="https://developer.android.com/jetpack/compose"><img height=48 src="./assets/Compose2-Dark.svg"></a>
 
 ## Favorite tools
 
