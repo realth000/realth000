@@ -5,15 +5,16 @@
   - license that can be found in the LICENSE.txt file or at
   - https://opensource.org/licenses/MIT.
   -->
-<!-- Original from https://raw.githubusercontent.com/JetBrains/ideavim/master/src/main/resources/META-INF/pluginIcon.svg -->
+<!-- Original from https://github.com/JetBrains/ideavim/blob/master/src/main/resources/META-INF/pluginIcon_noBorders.svg -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-12 -12 64 64">
-  <rect width="64" height="64" rx="15" fill="#F4F2ED" x="-12" y="-12"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="-12 -12 60 60">
+  <!--<rect width="256" height="256" rx="60" fill="#242938"/>-->
+  <rect width="60" height="60" rx="18.75" fill="#F4F2ED" x="-12" y="-12"/>
   <defs>
-    <linearGradient id="ideavim_plugin-a" x1="-6.748%" x2="47.286%" y1="33.61%" y2="85.907%">
-      <stop offset="0%" stop-color="#3BEA62"/>
-      <stop offset="100%" stop-color="#087CFA"/>
-    </linearGradient>
-  </defs>
-  <polygon fill="url(#ideavim_plugin-a)" fill-rule="evenodd" points="28.019 4 15.988 24.119 15.988 4 4 4 4 36 17.953 36 36 4"/>
+      <linearGradient id="ideavim_plugin-a" x1="-6.748%" x2="47.286%" y1="33.61%" y2="85.907%">
+        <stop offset="0%" stop-color="#3BEA62"/>
+        <stop offset="100%" stop-color="#087CFA"/>
+      </linearGradient>
+    </defs>
+    <polygon fill="url(#ideavim_plugin-a)" fill-rule="evenodd" points="29.019 0 13.988 26.119 13.988 0 0 0 0 40 16.953 40 40 0"/>
 </svg>
