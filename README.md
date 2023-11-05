@@ -26,10 +26,10 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 
 ## Favorite tools
 
-<a href="https://archlinux.org/"><img height=48 src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"></a>
-<a href="https://hyprland.org/"><img height=48 src="https://wiki.hyprland.org/icon.ico"></a>
-<a href="https://github.com/JetBrains/ideavim"><img height=48px src="https://raw.githubusercontent.com/JetBrains/ideavim/master/src/main/resources/META-INF/pluginIcon.svg"></a>
-<a href="https://wezfurlong.org/wezterm/index.html"><img height=48px src="https://wezfurlong.org/wezterm/favicon.svg"></a>
+<a href="https://archlinux.org/"><img height=48 src="./assets/ArchLinux-Dark.svg"></a>
+<a href="https://hyprland.org/"><img height=48 src="./assets/Hyprland-Dark.svg"></a>
+<a href="https://github.com/JetBrains/ideavim"><img height=48px src="./assets/IdeaVim-Dark.svg"></a>
+<a href="https://wezfurlong.org/wezterm/index.html"><img height=48px src="./assets/Wezterm-Dark.svg"></a>
 <a href="https://www.jetbrains.com/"><img src="https://skillicons.dev/icons?i=idea"></a>
 <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim"></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"></a>
