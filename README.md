@@ -9,6 +9,7 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 * <a href="https://github.com/realth000/mpax_flutter">mpax_flutter</a>: A simple music player powered by flutter.
 * <a href="https://github.com/realth000/tsdm_client">tsdm_client</a>: Cross-platform unofficial client for TSDM (<a href="https://tsdm39.com">天使动漫</a>) forum.
 * <a href="https://github.com/realth000/KeyContainerEx">KeyContainerEx</a>: Offline password manager made with flutter and rust.
+* <a href="https://github.com/realth000/gitsumu">gitsumu</a>: A dart package provides info about compile environment including git info, flutter version and more.
 
 ## Learning and using
 
