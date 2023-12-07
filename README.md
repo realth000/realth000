@@ -9,7 +9,6 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 * <a href="https://github.com/realth000/mpax_flutter">mpax_flutter</a>: A simple music player powered by flutter.
 * <a href="https://github.com/realth000/tsdm_client">tsdm_client</a>: Cross-platform unofficial client for TSDM (<a href="https://tsdm39.com">天使动漫</a>) forum.
 * <a href="https://github.com/realth000/KeyContainerEx">KeyContainerEx</a>: Offline password manager made with flutter and rust.
-* <a href="https://github.com/realth000/gitsumu">gitsumu</a>: A dart package provides info about compile environment including git info, flutter version and more.
 
 ## Learning and using
 
@@ -65,3 +64,5 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 > 甚至在死亡将要到来之时，我们还会带着朝气，走进新的领域
 >
 > 正如生命向我们发出的呐喊无穷无尽
+
+![_](https://raw.githubusercontent.com/realth000/realth000.github.io/master/static/dayyk0720.jpg)
