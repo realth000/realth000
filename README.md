@@ -50,19 +50,14 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats-realth000.vercel.app/api/top-langs/?username=realth000&theme=radical&layout=compact&langs_count=6&hide=cmake,css,html,javascript,shell"/>
 </a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realth000&theme=synthwave"/>
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realth000&theme=synthwave&utcOffset=8"/>
+</a>
 
 ---
 
-> 我们应当快活地走过一个又一个地方，没有什么能像故乡那样让我们留恋
->
-> 世界精神不是要束缚我们，而是鼓舞我们走得更高，看得更远
->
-> 一旦适应某种生活，我们的意志便很快松懈
->
-> 只有时刻准备出远门的人，才能摆脱麻痹人心的惰性
->
-> 甚至在死亡将要到来之时，我们还会带着朝气，走进新的领域
->
-> 正如生命向我们发出的呐喊无穷无尽
 
 ![_](https://raw.githubusercontent.com/realth000/realth000.github.io/master/static/dayyk0720.jpg)
