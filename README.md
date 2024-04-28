@@ -8,7 +8,7 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 
 * <a href="https://github.com/realth000/mpax_flutter">mpax_flutter</a>: A simple music player powered by flutter.
 * <a href="https://github.com/realth000/tsdm_client">tsdm_client</a>: Cross-platform unofficial client for TSDM (<a href="https://tsdm39.com">天使动漫</a>) forum.
-* <a href="https://github.com/realth000/taglib_ffi">taglib_ffi</a>: Dart/Flutter binding of [TagLib](https://taglib.org/) to manage autio metadata tags.
+* <a href="https://github.com/realth000/taglib_ffi">taglib_ffi</a>: Dart/Flutter binding of [TagLib](https://taglib.org/) to manage audio metadata tags.
 
 ## Learning and using
 
@@ -37,10 +37,8 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 ## Going to learn
 
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript"></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue"></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"></a>
 <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri"></a>
-<a href="https://vala.dev/"><img src="https://skillicons.dev/icons?i=vala"></a>
-<a href="https://www.gtk.org/"><img src="https://skillicons.dev/icons?i=gtk"></a>
 
 ## Status
 
