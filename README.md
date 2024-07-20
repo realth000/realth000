@@ -6,8 +6,9 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 
 ## Currently working on
 
-* <a href="https://github.com/realth000/mpax_flutter">mpax_flutter</a>: A simple music player powered by flutter.
 * <a href="https://github.com/realth000/tsdm_client">tsdm_client</a>: Cross-platform unofficial client for TSDM (<a href="https://tsdm39.com">天使动漫</a>) forum.
+* <a href="https://github.com/realth000/flutter_bbcode_editor">bbcode_editor</a>: WYSIWYG BBCode editor for flutter.
+* <a href="https://github.com/realth000/mpax_flutter">mpax_flutter</a>: A simple music player powered by flutter.
 * <a href="https://github.com/realth000/taglib_ffi">taglib_ffi</a>: Dart/Flutter binding of [TagLib](https://taglib.org/) to manage audio metadata tags.
 
 ## Learning and using
