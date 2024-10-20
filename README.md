@@ -42,10 +42,13 @@ Curiosity => Learning + Coding => One LOC a day => Keeps the doctor away
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats-realth000.vercel.app/api?username=realth000&theme=radical&include_all_commits=true&show_icons=true"/>
+<img height=200 align="center" src="https://
+github-readme-stats-api-plum.vercel.app
+/api?username=realth000&theme=radical&include_all_commits=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats-realth000.vercel.app/api/top-langs/?username=realth000&theme=radical&layout=compact&langs_count=6&hide=cmake,css,html,javascript,shell"/>
+<img height=200 align="center" src="https://
+github-readme-stats-api-plum.vercel.app/api/top-langs/?username=realth000&theme=radical&layout=compact&langs_count=6&hide=cmake,css,html,javascript,shell"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
 <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realth000&theme=synthwave"/>
